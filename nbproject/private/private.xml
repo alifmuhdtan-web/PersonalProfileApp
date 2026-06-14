@@ -4,9 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/web/profile.jsp</file>
-            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/web/index.html</file>
-            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/src/java/ProfileServlet.java</file>
-            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/web/css/style.css</file>
+            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/src/java/com/profile/Profile.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/src/java/com/profile/DBConnection.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/src/java/com/profile/ProfileServlet.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/web/viewAll.jsp</file>
+            <file>file:/C:/Users/user/Documents/GitHub/PersonalProfileApp/web/error.jsp</file>
         </group>
     </open-files>
 </project-private>
