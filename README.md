@@ -1,35 +1,42 @@
-# Personal Profile Web Application
+# 🎓 Student Profile Management System
 
-## Overview
+A comprehensive web-based Student Profile Management System built with Java Servlets, JSP, and MySQL. This application allows educational institutions to manage student profiles efficiently with full CRUD (Create, Read, Update, Delete) operations, search functionality, and filtering capabilities.
 
-This project is a Java Web Application developed using:
+## ✨ Features
 
-* HTML
-* CSS
-* Java Servlet
-* JSP
-* GlassFish Server 4.1.1
-* NetBeans IDE 8.2
+### Core Features
+- ✅ **Create Profile** - Register new students with personal and academic information
+- ✅ **View All Profiles** - Display all registered students in a sortable table
+- ✅ **Edit Profile** - Update existing student information
+- ✅ **Delete Profile** - Remove student records with confirmation dialog
+- ✅ **Search Profiles** - Search by student name or ID number
+- ✅ **Filter by Programme** - Filter students by their academic programme
 
-The application collects student profile information through a form, processes the data using a Servlet, and displays the submitted information using JSP.
+### User Interface
+- 🎨 Modern gradient design with responsive layout
+- 📱 Mobile-friendly responsive table
+- 🔍 Real-time search functionality
+- 💬 User-friendly success/error messages
+- 🎯 Intuitive navigation with clear call-to-action buttons
 
-## Features
+### Technical Features
+- 🔒 Secure database connection pooling
+- 📊 MVC Architecture pattern
+- 🛡️ Input validation and error handling
+- ⚡ Efficient JDBC database operations
+- 📝 Comprehensive logging instead of printStackTrace
 
-* Student Profile Form
-* Client-side Validation
-* Server-side Validation
-* JSP Data Display
-* Responsive CSS Design
-* Submission Date and Time
+## 🛠 Technologies Used
 
-## Technologies Used
-
-* Java EE
-* HTML5
-* CSS3
-* Servlet API
-* JSP
-
-## Author
-
-Alif Mohammad 2024892348
+| Technology | Version | Purpose |
+|------------|---------|---------|
+| Java | 8+ | Backend logic |
+| Java Servlets | 3.1 | Request handling |
+| JSP | 2.3 | Frontend views |
+| MySQL | 8.0+ | Database |
+| JDBC | 4.2 | Database connectivity |
+| HTML5 | - | Structure |
+| CSS3 | - | Styling |
+| JavaScript | ES6 | Client-side interactions |
+| GlassFish | 4.1.1 | Application server |
+| Apache NetBeans | 12+ | IDE |
